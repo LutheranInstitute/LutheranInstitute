@@ -32,6 +32,6 @@ Aquí viven nuestros agentes, nuestras clases y nuestras reglas. Para agentes: [
 | [emprendelatam](https://github.com/LutheranInstitute/emprendelatam) | #startabusiness: de la idea a tu LLC con agentes |
 | [teotech-theme](https://github.com/LutheranInstitute/teotech-theme) | Tema Jekyll 9:16 con WebGPU y tutor WebLLM |
 
-[Enseñar](https://lutheraninstitute.github.io/ensenar/) · [I+D](https://lutheraninstitute.github.io/investigacion/) · [LinkedIn](https://www.linkedin.com/company/institutoluterano/) · [Tumblr](https://www.tumblr.com/elearnlatam) · [Substack](https://privatecli.substack.com/) · [YouTube](https://www.youtube.com/@clillc)
+[Enseñar](https://lutheraninstitute.github.io/ensenar/) · [I+D](https://lutheraninstitute.github.io/investigacion/) · [LinkedIn](https://www.linkedin.com/company/institutoluterano/) · [Tumblr](https://www.tumblr.com/elearnlatam) · [Substack](https://privatecli.substack.com/) · [YouTube](https://www.youtube.com/@clillc) · [📣 Canal de WhatsApp INSTITUTO](https://whatsapp.com/channel/0029Vb8EIghJuyABUPq3ky0n)
 
 ☕ [Apoya al Instituto](https://buymeacoffee.com/daollc)
