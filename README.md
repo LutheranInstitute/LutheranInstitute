@@ -1,3 +1,5 @@
+<img src="assets/instituto-luterano-pizarron.jpg" alt="INSTITUTO LUTERANO escrito en gis sobre pizarrón" width="100%">
+
 # L:// Instituto Luterano Latinoamericano
 
 **Cinco siglos de herencia educativa luterana, al encuentro de la era agéntica.**
@@ -33,7 +35,5 @@ Aquí viven nuestros agentes, nuestras clases y nuestras reglas. Para agentes: [
 | [teotech-theme](https://github.com/LutheranInstitute/teotech-theme) | Tema Jekyll 9:16 con WebGPU y tutor WebLLM |
 
 [Enseñar](https://lutheraninstitute.github.io/ensenar/) · [I+D](https://lutheraninstitute.github.io/investigacion/) · [LinkedIn](https://www.linkedin.com/company/institutoluterano/) · [Tumblr](https://www.tumblr.com/elearnlatam) · [Substack](https://privatecli.substack.com/) · [YouTube](https://www.youtube.com/@clillc) · [📣 Canal de WhatsApp INSTITUTO](https://whatsapp.com/channel/0029Vb8EIghJuyABUPq3ky0n)
-
-<a href="https://whatsapp.com/channel/0029Vb8EIghJuyABUPq3ky0n"><img src="assets/instituto-whatsapp-qr.png" width="180" alt="QR del canal de WhatsApp INSTITUTO"></a>
 
 ☕ [Apoya al Instituto](https://buymeacoffee.com/daollc)
