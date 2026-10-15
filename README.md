@@ -34,4 +34,6 @@ Aquí viven nuestros agentes, nuestras clases y nuestras reglas. Para agentes: [
 
 [Enseñar](https://lutheraninstitute.github.io/ensenar/) · [I+D](https://lutheraninstitute.github.io/investigacion/) · [LinkedIn](https://www.linkedin.com/company/institutoluterano/) · [Tumblr](https://www.tumblr.com/elearnlatam) · [Substack](https://privatecli.substack.com/) · [YouTube](https://www.youtube.com/@clillc) · [📣 Canal de WhatsApp INSTITUTO](https://whatsapp.com/channel/0029Vb8EIghJuyABUPq3ky0n)
 
+<a href="https://whatsapp.com/channel/0029Vb8EIghJuyABUPq3ky0n"><img src="assets/instituto-whatsapp-qr.png" width="180" alt="QR del canal de WhatsApp INSTITUTO"></a>
+
 ☕ [Apoya al Instituto](https://buymeacoffee.com/daollc)
